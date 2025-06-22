@@ -1,6 +1,6 @@
 # MazeGenerator
 
-This is a _Maze Generator_. It randomly generates a square maze of a user-defined size using one of two methods: randomized Depth-First Search or a randomized Minimum Spanning Tree algorithm.
+This is a **Maze Generator**. It randomly generates a square maze of a user-defined size using one of two methods: randomized Depth-First Search or a randomized Minimum Spanning Tree algorithm.
 
 ---
 
